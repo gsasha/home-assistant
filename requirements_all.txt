@@ -1978,6 +1978,9 @@ xfinity-gateway==0.0.4
 # homeassistant.components.knx
 xknx==0.11.1
 
+# homeassistant.components.climate_ip
+xmljson==0.2.0
+
 # homeassistant.components.bluesound
 # homeassistant.components.startca
 # homeassistant.components.ted5000
